@@ -1,2 +1,2 @@
 #!/bin/bash
-telnet staff.vincent.nl
+chown vincent:staff *
