@@ -1,1 +1,1 @@
-0x12 Web stackdebugging
+0x12 Web stack debugging
